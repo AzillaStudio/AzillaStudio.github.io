@@ -143,3 +143,8 @@ admanmedia.com, 613, RESELLER
 adelement.com, 30167, RESELLER
 algorix.co, 54616, RESELLER, 5b394c12fea27a1d
 algorix.co, 60016, RESELLER, 5b394c12fea27a1d
+opera.com, pub6794361378752, RESELLER, 55a0c5fd61378de3
+advlion.com, 5140, RESELLER
+videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
